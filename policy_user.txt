@@ -1,0 +1,5 @@
+define Employee1 { user-PC3 ; user-PC4 ; }
+define Employee2 { user-PC5 ; }
+define Guest { user-guest ; }
+define Server1 { user-server101 ; }
+define Server2 { user-server102-1 ; user-server102-2 ; }
